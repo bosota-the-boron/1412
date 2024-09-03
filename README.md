@@ -45,7 +45,7 @@ Each criterion contributes to the final score, with specific recommendations pro
 
 Clone the repository and compile the program using a C compiler:
 
-git clone https://github.com/yourusername/password-checker.git
+git clone https://github.com/bosota-the-boron/1412
 cd password-checker
 gcc -o password_checker password_checker.c
 
