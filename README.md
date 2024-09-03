@@ -1,6 +1,6 @@
 # 1412
 
-🔐 Password Strength Checker with Wordlist Verification
+🔐 Password Strength Checker with Wordlist Verification + encrypt data
 
 Welcome to the Password Strength Checker repository! This C program is designed to assess the security of your passwords by evaluating their composition and checking them against a wordlist of commonly used passwords. The program provides helpful recommendations for improving password strength and ensuring that your credentials are secure.
 🚀 Features
