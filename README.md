@@ -17,21 +17,13 @@ Basic Usage
 
 To check the strength of your password, simply run the program and input your password when prompted:
 
-bash
-
 ./password_checker wordlist.txt
 
 Help Option
 
 To display usage instructions and available options, use the -h or --help flag:
 
-bash
-
 ./password_checker -h
-
-Example Output
-
-plaintext
 
 Enter the password to test: MySecurePassword123!
 Password Score: 35/35
@@ -52,8 +44,6 @@ Each criterion contributes to the final score, with specific recommendations pro
 👨‍💻 Installation
 
 Clone the repository and compile the program using a C compiler:
-
-bash
 
 git clone https://github.com/yourusername/password-checker.git
 cd password-checker
